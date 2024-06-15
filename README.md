@@ -35,4 +35,5 @@ By using the data that is collect to trains a convolutional neural network (CNN)
 .png" width=500>
 
 ### 3. Result
+
 <img src="assets/result.gif" width=1000>
