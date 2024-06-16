@@ -11,11 +11,11 @@ While I stay at home during the pandemic , there are a lot of inconvenience in m
 ## Hardware
 <img src="assets/hardware.jpg" width=500>
 
+* Arduino Uno
 * L298n Motor driver
-* Ardunio Uno
-* 5v motor 
+* Tire gear rim 
+* 5v DC motor 
 * 9v battery 
-* wheel
 
 ## Software
 
